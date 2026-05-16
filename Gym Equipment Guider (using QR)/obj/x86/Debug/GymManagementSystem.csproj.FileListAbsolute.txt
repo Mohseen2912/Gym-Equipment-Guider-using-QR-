@@ -1,0 +1,61 @@
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Dashboard.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.QRCreation.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form2.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.QRDecoding.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.AboutUS.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.HomePage.resources
+C:\Users\Imran\Desktop\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.LoginForm.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.AboutUS.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Dashboard.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form2.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.HomePage.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.LoginForm.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.QRCreation.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.QRDecoding.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Report.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ReportWindow.resources
+E:\Projects\ADO.NET Projects\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ReportShowAll.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.AboutUS.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Dashboard.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form2.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.HomePage.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.LoginForm.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.QRCreation.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.QRDecoding.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Report.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ReportShowAll.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ReportWindow.resources
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Mohseen\Desktop\GymManagementSystem(QR Code Generater)\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
